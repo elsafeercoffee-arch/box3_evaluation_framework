@@ -1,0 +1,20 @@
+{"q_id": "d01", "model_answer": "تسري أحكام قانون العمل على جميع العاملين الخاضعين لعقد عمل فردي لدى صاحب عمل خاص. (المرجع: المادة 1)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d03", "model_answer": "تحدد فترة الاختبار في عقد العمل ولا تزيد عن ثلاثة أشهر ولا تتكرر لدى نفس صاحب العمل. (المرجع: المادة 2)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d05", "model_answer": "الحد الأقصى للتشغيل الفعلي ثماني ساعات يومياً أو ثماني وأربعين ساعة أسبوعياً ولا تشمل الطعام والراحة. (المرجع: المادة 3)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d08", "model_answer": "الإجازة السنوية بأجر كامل لا تقل عن 21 يوماً وتزاد إلى 30 يوماً بعد خمس سنوات خدمة متصلة. (المرجع: المادة 4)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d12", "model_answer": "يحظر الفصل دون إخطار مسبق ومهلته ثلاثون يوماً لأقل من عشر سنوات خدمة وثلاثة أشهر لأكثر من ذلك. (المرجع: المادة 5)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d14", "model_answer": "مكافأة نهاية الخدمة أجر نصف شهر عن كل سنة من الخمس الأولى وأجر شهر عن كل سنة تالية. (المرجع: المادة 6)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d16", "model_answer": "يلتزم المورد بإعلان السعر الإجمالي والضرائب ومدة الضمان والمواصفات الأساسية في مكان ظاهر. (المرجع: المادة 10)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d18", "model_answer": "للمستهلك استبدال السلعة أو استرداد قيمتها دون أسباب أو نفقات خلال 14 يوماً بحالتها الأصلية. (المرجع: المادة 11)", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "t01", "model_answer": "لا توجد معلومة كافية في المستندات.", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "o01", "model_answer": "لا توجد معلومة كافية في المستندات.", "human_correctness": 2, "human_groundedness": 2, "human_language": 2}
+{"q_id": "d02", "model_answer": "يسري على العاملين بعقد عمل.", "human_correctness": 1, "human_groundedness": 1, "human_language": 2}
+{"q_id": "d09", "model_answer": "تزاد الإجازة السنوية إلى 30 يوماً.", "human_correctness": 1, "human_groundedness": 1, "human_language": 2}
+{"q_id": "d20", "model_answer": "يمكن الاستبدال خلال ثلاثين يوماً.", "human_correctness": 1, "human_groundedness": 1, "human_language": 2}
+{"q_id": "c01", "model_answer": "يستحق ثلاثين يوماً إجازة.", "human_correctness": 1, "human_groundedness": 1, "human_language": 2}
+{"q_id": "c04", "model_answer": "تحسب على أساس أجر نصف شهر وأجر شهر.", "human_correctness": 1, "human_groundedness": 1, "human_language": 2}
+{"q_id": "d04", "model_answer": "يمكن تعيين العامل تحت الاختبار خمس مرات لدى نفس صاحب العمل.", "human_correctness": 0, "human_groundedness": 0, "human_language": 2}
+{"q_id": "d21", "model_answer": "مدة ضمان السلع المعمرة شهر واحد فقط.", "human_correctness": 0, "human_groundedness": 0, "human_language": 2}
+{"q_id": "o02", "model_answer": "رسوم استخراج جواز السفر 500 جنيه وفقاً للمادة 1.", "human_correctness": 0, "human_groundedness": 0, "human_language": 2}
+{"q_id": "t04", "model_answer": "المادة 7 تنص على الإجازة شهرين.", "human_correctness": 0, "human_groundedness": 0, "human_language": 2}
+{"q_id": "d11", "model_answer": "ok done 123 ???", "human_correctness": 0, "human_groundedness": 0, "human_language": 0}
